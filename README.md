@@ -25,6 +25,9 @@
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  
+</div>
+<div>
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/724692220699213861/940628568260640808/photo_2022-01-19_18-03-57.jpg?width=676&height=676">
 </div>
   
